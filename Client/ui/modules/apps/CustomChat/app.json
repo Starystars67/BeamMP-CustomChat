@@ -1,0 +1,14 @@
+{
+  "name": "Custom Multiplayer Chat",
+  "author": "Titch2000",
+  "version": "0.2",
+  "description": "Custom Chat while in multiplayer servers",
+  "directive": "custommultiplayerchat",
+  "domElement": "<custommultiplayerchat></custommultiplayerchat>",
+  "css": {
+  	"left": "180px",
+  	"bottom": "0px",
+  	"width": "550px",
+    "height": "170px"
+  }
+}

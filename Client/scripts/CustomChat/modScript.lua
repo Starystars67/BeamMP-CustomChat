@@ -1,0 +1,2 @@
+load("customChat")
+registerCoreModule("customChat")

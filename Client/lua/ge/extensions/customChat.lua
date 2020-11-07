@@ -1,0 +1,1 @@
+guihooks.trigger("useCustomChatWindow", true)
